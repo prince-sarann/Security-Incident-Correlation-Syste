@@ -1,0 +1,8 @@
+incident-correlation
+incident-correlation.exe
+*.o
+*.out
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
